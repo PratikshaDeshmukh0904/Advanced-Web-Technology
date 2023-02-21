@@ -1,0 +1,5 @@
+D:\StudentRegistration\StudentRegistration\bin\StudentRegistration.dll
+D:\StudentRegistration\StudentRegistration\bin\StudentRegistration.pdb
+D:\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.dll
+D:\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.pdb
+D:\StudentRegistration\StudentRegistration\obj\Debug\StudentRegistration.csprojResolveAssemblyReference.cache
